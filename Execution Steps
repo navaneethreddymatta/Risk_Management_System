@@ -1,0 +1,8 @@
+Steps to Execute:
+Create a database and import the provided rms.sql to the database
+Go to rms/application/model/ContactsService.php and edit the database name and mysql details.
+
+Browser Credentials:
+Role:
+Admin - Username/password - admin/admin
+Analyst - Username/password - analyst/analyst
